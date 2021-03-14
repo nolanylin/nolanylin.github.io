@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar in Prof. Randy Snurr's group at Northwestern University. I obtained my Ph.D. in Chemical Engineering (2020) under the guidance of Prof. Keith Gubbins (co-advised by Prof. Erik Santiso) from North Carolina State University. Before I came to NC State, I received my BS in Polymer Science and Engineering (2015) from East China University of Science & Technology, Shanghai, China.
+Yun Lin is a researcher in the JIFRESSE at the University of California, Los Angeles; research in environmental and atmospheric sciences. Yun received a BS and MS in Environmental Sciences from Peking University, China, and a PhD in Atmospheric Sciences from the University of Texas A&M.
 
-My research interests are applying molecular simulation, theory and machine learning to understand and predict the phase equilibria, transport and chemical reactions of complex fluids at interfaces, surfaces and in confined systems, and developing novel porous materials for a more sustainable future.
-
-In my spare time, I love traveling around the world, swimming and playing video games (Metroidvania especially)...
+My research interests are 
+1)	Aerosol-cloud-precipitation interactions using regional-scale models;
+2)	Experimental and theoretical study of aerosol clustering and formation;
+3)	Laboratory measurements of air pollution emissions and characteristics.
