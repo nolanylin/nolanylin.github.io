@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "News"
+    url: /news/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
+  - title: "Awards"
+    url: /awards/
+  - title: "Resources"
+    url: /resources/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
