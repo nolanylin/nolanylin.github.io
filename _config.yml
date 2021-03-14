@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KS"
+title                    : "Welcome to YUN's World"
 title_separator          : "-"
-name                     : "Kaihang Shi"
-description              : "Chemical Engineer - PhD"
-url                      : "https://kaihangshi.github.io"
+name                     : "YUN LIN"
+description              : "Environment|Climate - PhD"
+url                      : "https://nolanylin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kaihangshi/kaihangshi.github.io"
+repository               : "nolanylin/nolanylin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -97,13 +97,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaihang Shi 施恺航"
+  name             : "YUN LIN | 林云"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Postdoctoral scholar in Snurr group, Northwestern University"
   location         : "Evanston, IL"
-  email            : "kaihangshi0@gmail.com"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=oONsXYAAAAAJ&hl=en"
-  researchgate     : #"https://www.researchgate.net/profile/Kaihang_Shi"
+  email            : "yunlin@ucla.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=HUUiCsoAAAAJ&hl=en"
+  researchgate     : #"https://www.researchgate.net/profile/Yun-Lin-12"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -111,7 +111,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KaihangShi"
+  github           : "nolanylin"
   gitlab           :
   google_plus      :
   keybase          :
@@ -122,11 +122,10 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "KaihangS"
+  twitter          : #"Yunlin"
   vine             :
   weibo            :
   xing             :
-  youtube          : "c/KaihangShi"
 
 
 # Reading Files
