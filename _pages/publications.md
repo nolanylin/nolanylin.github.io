@@ -17,7 +17,7 @@ toc_icon: "columns"
 {% include figure image_path="/assets/images/Shi_JCP_2021.jpg" caption="[15] **K. Shi**, E. E. Santiso, and K. E. Gubbins, \"Can we define a unique microscopic pressure in inhomogeneous fluids?\". *Journal of Chemical Physics*, 154 (2021) 084502. [[link]](https://aip.scitation.org/doi/10.1063/5.0044487)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf)"%}
 
 ### 2020
-{% "[15] **K. Shi**, E. E. Santiso, and K. E. Gubbins, \"Can we define a unique microscopic pressure in inhomogeneous fluids?\". *Journal of Chemical Physics*, 154 (2021) 084502. [[link]](https://aip.scitation.org/doi/10.1063/5.0044487)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf)"%}
+{% include " **K. Shi**, E. E. Santiso, and K. E. Gubbins, \"Can we define a unique microscopic pressure in inhomogeneous fluids?\". *Journal of Chemical Physics*, 154 (2021) 084502. [[link]](https://aip.scitation.org/doi/10.1063/5.0044487)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf)"%}
 
 ### 2019
 {%" **Y. Lin**, Ji, Y., Li, Y., Secrest, J., Xu, W., Xu, F., Wang, Y., An, T., and Zhang, R. Interaction between succinic acid and sulfuric acid–base clusters, Atmos. Chem. Phys, 19 (12), 8003-8019 (2019)"%}
