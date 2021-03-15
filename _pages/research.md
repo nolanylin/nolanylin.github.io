@@ -25,5 +25,3 @@ I use self-designed sampling or reaction experimental systems equiped with comme
 ## Miscellaneous Environmental Effects of Human Activities
 I am working with other researchers to reveal other environmental effects of human activities, e.g., human health effect of air pollution, water-food-energy nexus, etc..
 >Tools: statistical analysis, dynamic social-economic system, etc..
-
-
