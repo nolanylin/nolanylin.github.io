@@ -10,7 +10,7 @@ toc_label: "Category"
 toc_icon: "columns"
 ---
 ## Book Chapter
-{%" R. Zhang, P. Tian, Y. Ji, **Y. Lin**, J. Peng, B. Pan, Y. Wang, G. Wang, G. Li, W. Wang, F. Zhang, X. Feng, L. Duan, J. Hu, W. Marrero-Ortiz, J. Secrest, M. Hu. *Air Pollution in Eastern Asia: An Integrated Perspective. Chapter: Overview of Persistent Haze Events in China*. Springer, Cham, (2017)"%}
+
 
 
 ## Peer-reviewed Journals
