@@ -9,8 +9,9 @@ To be updated...
 
 ## Aerosol-Cloud-Precipitation interactions
 I employ regional-scale models to simulate and investigate aerosol-cloud-precipitation interactions under various meteorological conditions.
->Tools: aerosol-aware, cloud-permitting models (e.g., WRF) coupled with other components (e.g., -Chem,-CAMX, -ROMS) etc.;
+>Tools: aerosol-aware, cloud-permitting atmospheric models coupled with other components like chemistry, ocean, etc.;
 >Systems: Tropical cyclones, severe convective clouds, orographic clouds, shallow cumulus...
+>
 
 ## Aerosol Clustering and Formation
 I use both experimental and theoretical methods to reveal the roles of gaseous precusors or semi-volatile species in aerosol clustring and formation.
