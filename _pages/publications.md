@@ -14,6 +14,8 @@ toc_icon: "columns"
 
 
 ## Peer-reviewed Journals
+{% include figure image_path="/assets/images/Shi_JCP_2021.jpg" caption="[15] **K. Shi**, E. E. Santiso, and K. E. Gubbins, \"Can we define a unique microscopic pressure in inhomogeneous fluids?\". *Journal of Chemical Physics*, 154 (2021) 084502. [[link]](https://aip.scitation.org/doi/10.1063/5.0044487)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf)"%}
+
 ### 2020
 {%" **Y. Lin**, J. Fan, J. Jeong, Y. Zhang, C. R. Homeyer, and J. Wang. Urbanization-Induced Land and Aerosol Impacts on Storm Propagation and Hail Characteristics. *Journal of Atmospheric Science*, 78 (2020). [[link]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-20-0106.1/JAS-D-20-0106.1.xml)"%}
 ### 2019
