@@ -17,7 +17,7 @@ toc_icon: "columns"
 {% include figure image_path="/assets/images/Shi_JCP_2021.jpg" caption="[15] **K. Shi**, E. E. Santiso, and K. E. Gubbins, \"Can we define a unique microscopic pressure in inhomogeneous fluids?\". *Journal of Chemical Physics*, 154 (2021) 084502. [[link]](https://aip.scitation.org/doi/10.1063/5.0044487)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf)"%}
 
 ### 2020
-{%" **Y. Lin**, J. Fan, J. Jeong, Y. Zhang, C. R. Homeyer, and J. Wang. Urbanization-Induced Land and Aerosol Impacts on Storm Propagation and Hail Characteristics. *Journal of Atmospheric Science*, 78 (2020)."%}
+{%" **Y. Lin**, J. Fan, J. Jeong, Y. Zhang, C. R. Homeyer, and J. Wang."%}
 ### 2019
 {%" **Y. Lin**, Ji, Y., Li, Y., Secrest, J., Xu, W., Xu, F., Wang, Y., An, T., and Zhang, R. Interaction between succinic acid and sulfuric acid–base clusters, Atmos. Chem. Phys, 19 (12), 8003-8019 (2019)"%}
 {%" Q. Su, H. Dai, H. Chen, **Y. Lin**, Y. Xie, R. Karthikeyan. General equilibrium analysis of the cobenefits and trade-offs of carbon mitigation on local industrial water use and pollutants discharge in China. *Environ. Sci. Technol.*, 53 (3), 1715-1724 (2019)."%}
