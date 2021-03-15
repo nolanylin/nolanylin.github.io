@@ -18,6 +18,8 @@ toc_icon: "columns"
 
 ### 2020
 {%" **Y. Lin** "%}
+
+
 ### 2019
 {%" **Y. Lin**, Ji, Y., Li, Y., Secrest, J., Xu, W., Xu, F., Wang, Y., An, T., and Zhang, R. Interaction between succinic acid and sulfuric acid–base clusters, Atmos. Chem. Phys, 19 (12), 8003-8019 (2019)"%}
 {%" Q. Su, H. Dai, H. Chen, **Y. Lin**, Y. Xie, R. Karthikeyan. General equilibrium analysis of the cobenefits and trade-offs of carbon mitigation on local industrial water use and pollutants discharge in China. *Environ. Sci. Technol.*, 53 (3), 1715-1724 (2019)."%}
@@ -27,7 +29,7 @@ toc_icon: "columns"
 {%" Wang, Y., Vogel, J.M., **Y. Lin** et al. Aerosol microphysical and radiative effects on continental cloud ensembles. Adv. Atmos. Sci. 35, 234 (2018)."%}
 {%" Q. Su, H. Dai, **Y. Lin**, H. Chen, R. Karthikeyan. Modeling the carbon-energy-water nexus in a rapidly urbanizing catchment: a general equilibrium assessment. J. Environ. Manag, 225, 93-103 (2018)."%}
 ### 2017
-{%" Y. Ji, J. Zhao, H. Terazono, K. Misawa, N. P. Levitt, Y. Li, Y. Lin, et al. Reassessing the atmospheric oxidation mechanism of toluene, Proc. Natl. Acad. Sci, 114(31), (2017).
+{%" Y. Ji, J. Zhao, H. Terazono, K. Misawa, N. P. Levitt, Y. Li, Y. Lin, et al. Reassessing the atmospheric oxidation mechanism of toluene, Proc. Natl. Acad. Sci, 114(31), (2017)."%}
 {%" H. Chen+, **Y. Lin+**, Q. Su, and L. Cheng. Spatial variation of multiple air pollutants and their potential contributions to all-cause, respiratory, and cardiovascular mortality across China in 2015–2016, Atmos. Environ., 168, pp. 23-35, (2017). (+co-corresponding author)"%}
 {%" J. Fan, B. Han, A. Varble, H. Morrison, K. North, P. Kollias, B. Chen, X. Dong, S. Giangrande, A. Khain, **Y. Lin**, E. Mansell, J. Milbrandt, R. Stenz, G. Thompson, Y. Wang. Cloud-Resolving Model Intercomparison of an MC3E Squall Line Case: Part I – Convective Updrafts. J. Geophys. Res, 122, 9351–9378, (2017)."%}
 {%" P. Tian, X. Cao, L. Zhang, N. Sun, L. Sun, T. Logan, J. Shi, Y. Wang, Y. Ji, **Y. Lin**, Z. Huang, T. Zhou, Y. Shi, and R. Zhang. Aerosol vertical distribution and optical properties over China from long-term satellite and ground-based remote sensing. Atmos. Chem. Phys, 17, 2509-2523 (2017)."%}
@@ -39,7 +41,7 @@ toc_icon: "columns"
 {%" R. Zhang, G.H. Wang, S. Guo, M. Levy, Q. Ying, **Y. Lin**, W.G. Wang, M. Hu, Y. Wang. Formation of urban fine particulate matter. Chem. Rev, 115(10), 3803-3855 (2015)."%}
 ### 2014
 {%" Y. Wang, M. Wang, R. Zhang, S. Ghan, **Y. Lin**, J. Hu, B. Pan, M. Levy, J. Jiang, M.J. Molina, Assessing the Impacts of Anthropogenic Aerosols on Pacific Storm Track Using A Multi-Scale Global Climate Model, Proc. Natl. Acad. Sci, 111(19), 6894-6899 (2014)."%}
-{%" Y. Wang, K.H. Lee, **Y. Lin**, M. Levy, R. Zhang, Distinct Effects of Anthropogenic Aerosols on Tropical Cyclones, Nat. Clim. Change, 4(5), 368-373 (2014). 
+{%" Y. Wang, K.H. Lee, **Y. Lin**, M. Levy, R. Zhang, Distinct Effects of Anthropogenic Aerosols on Tropical Cyclones, Nat. Clim. Change, 4(5), 368-373 (2014)."%} 
 {%" M.E. Gomez, **Y. Lin**, S. Guo, R. Zhang. Heterogeneous chemistry of Glyoxal on acidic solutions. An oligomerization pathway for secondary organic aerosol formation. J. Phys. Chem. A, 119 (19), 4457-4463, (2014)."%}
 {%" Y.S. Zhang, S.J. Luan, M. Shao, L.W. Zeng, **Y. Lin**, L.M. Zeng, L.Y. He, X.F. Huang. Design and application of hood dilution sampling system for measuring biomass burning sources. China Environl. Sci, 34(11), 2741-2748 (2014)."%}
 ### 2013
