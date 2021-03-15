@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Research"
+  - title: "RESEARCH"
     url: /research/
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
-  - title: "Awards"
-    url: /awards/
-  - title: "Resources"
+#  - title: "Awards"
+#    url: /awards/
+  - title: "RESOURCES"
     url: /resources/
   # - title: "Sample Collections"
   #   url: /collection-archive/
