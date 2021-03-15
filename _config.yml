@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WELCOME TO YUN'S RESEARCH WORLD!"
+title                    : "Welcome to YUN's Research World!"
 title_separator          : "-"
 name                     : "YUN LIN"
 description              : "Environment|Climate - PhD"
