@@ -10,8 +10,4 @@ redirect_from:
 
 I am a researcher in the JIFRESSE at the University of California, Los Angeles. My research fields are in environmental and atmospheric sciences. I received a BS and MS in Environmental Sciences from Peking University, China, and a PhD in Atmospheric Sciences from the University of Texas A&M.
 
-My research interests focus on 
->Aerosol-cloud-precipitation interactions using regional-scale models;
->Aerosol clustering and formation;
->Air pollution emissions and characteristics;
->Miscellaneous effects of human activities on environment.
+My research centers on environmental and climatic effects of atmospheric chemical species, particularly for aerosol particles emitted from anthropogenic sources. Currently, I foucs on modeling studies on aerosol-cloud-precipitation interactions, experimentally and theoretically investigate aerosol clustering and formation, laboratory monitoring air pollutants' emissions and their characteristics, and miscellaneous effects of human activities on environment. 
