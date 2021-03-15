@@ -11,7 +11,7 @@ To be updated...
 I employ regional-scale models to simulate and investigate aerosol-cloud-precipitation interactions under various meteorological conditions.
 >More details: Aerosol-aware, cloud-permitting atmospheric models coupled with other components like chemistry, ocean, and so on are used to eloborate the underlying physics of aerosol effcts on clouds and precipitation associated with various systems, for example, tropical cyclones, severe convective clouds, orographic clouds, shallow cumulus, etc..
 >One of my recent work is urbanization impacts on severe storm with hazard weather [(Lin et al., 2020)](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-20-0106.1/JAS-D-20-0106.1.xml).
->{% include figure image_path="/assets/images/urban2020.png" %}
+{% include figure image_path="/assets/images/urban2020.png" %}
 
 ## Aerosol Clustering and Formation
 I use both experimental and theoretical methods to reveal the roles of gaseous precusors or semi-volatile species in aerosol clustring and formation.
