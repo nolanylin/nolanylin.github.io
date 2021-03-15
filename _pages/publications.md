@@ -10,12 +10,12 @@ toc_label: "Category"
 toc_icon: "columns"
 ---
 ## Book Chapter
-{%" R. Zhang, P. Tian, Y. Ji, **Y. Lin**, J. Peng, B. Pan, Y. Wang, G. Wang, G. Li, W. Wang, F. Zhang, X. Feng, L. Duan, J. Hu, W. Marrero-Ortiz, J. Secrest, M. Hu. *Air Pollution in Eastern Asia: An Integrated Perspective. Chapter: Overview of Persistent Haze Events in China*. Springer, Cham, (2017)."%}
+{%" R. Zhang, P. Tian, Y. Ji, **Y. Lin**, J. Peng, B. Pan, Y. Wang, G. Wang, G. Li, W. Wang, F. Zhang, X. Feng, L. Duan, J. Hu, W. Marrero-Ortiz, J. Secrest, M. Hu. *Air Pollution in Eastern Asia: An Integrated Perspective. Chapter: Overview of Persistent Haze Events in China*. Springer, Cham, (2017)"%}
 
 
 ## Peer-reviewed Journals
 ### 2020
-{%" **Y. Lin**, J. Fan, J. Jeong, Y. Zhang, C. R. Homeyer, and J. Wang. Urbanization-Induced Land and Aerosol Impacts on Storm Propagation and Hail Characteristics. *Journal of Atmospheric Science*, 78 (2020). [[link]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-20-0106.1/JAS-D-20-0106.1.xml)."%}
+{%" **Y. Lin**, J. Fan, J. Jeong, Y. Zhang, C. R. Homeyer, and J. Wang. Urbanization-Induced Land and Aerosol Impacts on Storm Propagation and Hail Characteristics. *Journal of Atmospheric Science*, 78 (2020). [[link]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-20-0106.1/JAS-D-20-0106.1.xml)"%}
 ### 2019
 {%" **Y. Lin**, Ji, Y., Li, Y., Secrest, J., Xu, W., Xu, F., Wang, Y., An, T., and Zhang, R. Interaction between succinic acid and sulfuric acid–base clusters, Atmos. Chem. Phys, 19 (12), 8003-8019 (2019)"%}
 {%" Q. Su, H. Dai, H. Chen, **Y. Lin**, Y. Xie, R. Karthikeyan. General equilibrium analysis of the cobenefits and trade-offs of carbon mitigation on local industrial water use and pollutants discharge in China. *Environ. Sci. Technol.*, 53 (3), 1715-1724 (2019)."%}
