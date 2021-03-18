@@ -21,9 +21,10 @@ I use both experimental and theoretical methods to reveal the roles of gaseous p
 {% include figure image_path="/assets/images/cluster2019v2.png" %}
 
 ## Emissions and Characteristics of Air Pollutants
-I use self-designed sampling or reaction experimental systems equiped with commercial monitoring devices or instruments to charaterize the emissions of air pollutants and their physical, chemical, and optial properties.
->Experimental systems and monitoring instruments: smoke chamber, smoke sampling and dilution system etc.;
->Pollutants: gaseous precusors, fine particles, black carbon, secondary organic compounds, etc..
+Self-designed sampling or reaction experimental systems equiped with commercial monitoring devices or instruments are applied to charaterize the emissions of air pollutants and their physical, chemical, and optial properties.
+>The experimental systems and monitoring instruments include smoke chamber, smoke sampling and dilution system etc.. The target pollutants under study invole gaseous precusors, fine particles, black carbon, secondary organic compounds, and so on.
+>One of such work has employed self-designed smoke sampling platform [(Zhang et al., 2019)](https://www.sciencedirect.com/science/article/pii/S1352231012005407):
+{% include figure image_path="/assets/images/biomasburing2009.png" %}
 
 ## Miscellaneous Environmental Effects of Human Activities
 I am working with other researchers to reveal other environmental effects of human activities, e.g., human health effect of air pollution, water-food-energy nexus, etc..
