@@ -23,7 +23,7 @@ I use both experimental and theoretical methods to reveal the roles of gaseous p
 ## Emissions and Characteristics of Air Pollutants
 Self-designed sampling or reaction experimental systems equiped with commercial monitoring devices or instruments are applied to charaterize the emissions of air pollutants and their physical, chemical, and optial properties.
 >The experimental systems and monitoring instruments include smoke chamber, smoke sampling and dilution system etc.. The target pollutants under study invole gaseous precusors, fine particles, black carbon, secondary organic compounds, and so on.
->One of such work has employed self-designed smoke sampling platform [(Zhang et al., 2019)](https://www.sciencedirect.com/science/article/pii/S1352231012005407):
+>One of such our work has employed self-designed smoke diluting and sampling platform to mimic the emissios of open biomass burnings and their emission charateristics [(Zhang et al., 2019)](https://www.sciencedirect.com/science/article/pii/S1352231012005407):
 {% include figure image_path="/assets/images/biomasburing2009.png" %}
 
 ## Miscellaneous Environmental Effects of Human Activities
