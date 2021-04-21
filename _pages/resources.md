@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Resources"
+title: "RESOURCES"
 permalink: /resources/
 date: 2021-02-25
 categories: pages
