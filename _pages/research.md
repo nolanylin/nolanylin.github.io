@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My Research"
+title: "MY RESEARCH"
 permalink: /research/
 date: 2020-2-25
 categories: pages
