@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "PUBLICATIONS"
+title: "MY PUBLICATIONS"
 excerpt: "History of my publications in various academic journals and books."
 permalink: /publications/
 date: 2021-3-12
